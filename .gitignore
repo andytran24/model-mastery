@@ -153,9 +153,6 @@ activemq-data/
 # macOS
 .DS_Store
 
-# ChromaDB generated artifacts
-chroma_db/
-
 # Environments
 .env
 .envrc
